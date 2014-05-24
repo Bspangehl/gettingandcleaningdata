@@ -16,13 +16,13 @@ For more information about the original dataset contact: activityrecognition@sma
 
 
 ###The dataset includes the following files:
-- 'README.md'
+- README.md
 
-- 'CodeBook.md'
+- CodeBook.md
 
-- 'run_analysis.R': Script that produces tidyDataSet of the mean of each variable per subject-activity combination.
+- run_analysis.R: Script that produces tidyDataSet of the mean of each variable per subject-activity combination.
 
-- 'tidyDataSet.txt': Each row identifies the subject who performed the activity, the activity performed and the average of each variable for each activity and each subject (i.e. the mean of each variable per subject-activity combination). 
+- tidyDataSet.txt: Each row identifies the subject who performed the activity, the activity performed and the average of each variable for each activity and each subject (i.e. the mean of each variable per subject-activity combination). 
 
 
 ###Running the script in R:
