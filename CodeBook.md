@@ -39,7 +39,6 @@ activityDesc - One of six values:
 
 ###List of variables in this dataset:
 
-
 | Variable                            |
 |-------------------------------------|
 | subjectID                           |
