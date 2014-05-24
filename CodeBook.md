@@ -1,7 +1,7 @@
 Coursera Getting and Cleaning Data Course Project
 =================================================
 
-##Feature Selection: 
+###Feature Selection: 
 
 The dataset represents a subset of data from the Human Activity Recognition Using Smartphones Dataset Version 1.0.
 
@@ -19,8 +19,8 @@ The set of variables that were estimated from these signals are:
 mean(): Mean value
 std(): Standard deviation
 
-Naming conventions:
-===================
+###Naming conventions:
+
 Variables renamed according to the recommended safe naming conventions at:
 https://google-styleguide.googlecode.com/svn/trunk/Rguide.xml
 
@@ -30,15 +30,15 @@ The original variables containing the words 'Acc', Gyro' and 'Mag' were expanded
 
 subjectId: An integer id of the subject performing the activities.
 activityDesc - One of six values: 
-*LAYING
-*SITTING
-*STANDING
-*WALKING
-*WALKING_DOWNSTAIRS
-*WALKING_UPSTAIRS
+-LAYING
+-SITTING
+-STANDING
+-WALKING
+-WALKING_DOWNSTAIRS
+-WALKING_UPSTAIRS
 
-List of variables:
-==================
+###List of variables in this dataset:
+
 
 | Variable                            |
 |-------------------------------------|
