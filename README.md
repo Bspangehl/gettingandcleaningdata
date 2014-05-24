@@ -1,5 +1,4 @@
-Coursera Getting and Cleaning Data Course Project
-=================================================
+##Coursera Getting and Cleaning Data Course Project
 
 The dataset represents a subset of data from the Human Activity Recognition Using Smartphones Dataset Version 1.0 by:
 
@@ -16,9 +15,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 For more information about the original dataset contact: activityrecognition@smartlab.ws
 
 
-The dataset includes the following files:
-=========================================
-
+###The dataset includes the following files:
 - 'README.md'
 
 - 'CodeBook.md'
@@ -28,9 +25,9 @@ The dataset includes the following files:
 - 'tidyDataSet.txt': Each row identifies the subject who performed the activity, the activity performed and the average of each variable for each activity and each subject (i.e. the mean of each variable per subject-activity combination). 
 
 
-Running the script in R:
-========================
+###Running the script in R:
 If not already done, set the working directory.
+
 To execute:
 source('run_analysis.R')
  
@@ -48,8 +45,7 @@ After manipulating the data into a single dataframe the script uses melt and dca
 The final dataset is called tidyDataset
 
 
-License:
-========
+###License:
 Use of this dataset in publications must be acknowledged by referencing the following publication [1] 
 
 [1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
