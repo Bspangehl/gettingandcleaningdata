@@ -28,6 +28,7 @@ The original convention of denoting time domain variables and frequency domain v
 The original variables containing the words 'Acc', Gyro' and 'Mag' were expanded to now contain 'Accelerometer, 'Gyroscope', 'Magnitude' respectively.
 
 subjectId: An integer id of the subject performing the activities.
+<<<<<<< HEAD
 activityDesc:
 One of six values 
 * LAYING
@@ -38,6 +39,18 @@ One of six values
 * WALKING_UPSTAIRS
 
 ###List of variables:
+=======
+
+activityDesc - One of six values:
+* LAYING
+* SITTING
+* STANDING
+* WALKING
+* WALKING_DOWNSTAIRS
+* WALKING_UPSTAIRS
+
+###List of variables in this dataset:
+>>>>>>> 0b2e1b16eee19191d0b6356538c35bb84677f63a
 
 | Variable                            |
 |-------------------------------------|
