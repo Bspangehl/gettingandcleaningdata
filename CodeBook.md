@@ -29,8 +29,8 @@ The original variables containing the words 'Acc', Gyro' and 'Mag' were expanded
 
 subjectId: An integer id of the subject performing the activities.
 activityDesc - One of six values: 
--LAYING
--SITTING
+*LAYING
+*SITTING
 -STANDING
 -WALKING
 -WALKING_DOWNSTAIRS
